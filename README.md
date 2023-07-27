@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aTunass/aTunass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👋 Hi, I’m Tuan</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aTunass" alt="aTunass" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aTunass&label=Profile%20views&color=0e75b6&style=flat" alt="aTunass" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aTunass" alt="aTunass" /></a> </p>
-
 - 🌱 I’m currently learning **AI, Embedded Systems**
 
 - 👨‍💻 All of my projects are available at [hhttps://github.com/aTunass](https://github.com/aTunass?tab=repositories)
@@ -36,9 +33,7 @@ Here are some ideas to get you started:
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aTunass&show_icons=true&locale=en&layout=compact" alt="aTunass" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aTunass&show_icons=true&locale=en" alt="aTunass" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aTunass&" alt="aTunass" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aTunass&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aTunass&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aTunass&&theme=tokyonight" alt="rishavchanda" /></p>
 
